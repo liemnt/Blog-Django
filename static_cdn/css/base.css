@@ -1,0 +1,11 @@
+h3{
+    color: #654645;
+}
+.wmd-panel{
+    margin-right: 0px !important;
+    margin-left:0px !important;
+    width: 100% !important;
+}
+.comment-reply{
+    display:none;
+}
